@@ -1,0 +1,17 @@
+body { color: black;
+  background-color: white;
+  font-family: 'Helvetica', sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 1.42857143;
+      margin: 0;
+    }
+    .icon {display: block;
+      width: 70px; height: 70px;}
+
+      .logo{
+        display: flex;
+        background-color: #9ccba3;
+      }
+    
